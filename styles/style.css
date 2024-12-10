@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: inter;
+    margin: 64px 158px 368px 158px;
+}
+
+#mainDiv {
+    background-color: #E2F7FF;
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+}
+
+#mainPic {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 64px;
+}
+
+#meeting {
+    display: block;
+    width: 1280px;
+   height: 660px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border-radius: 16px;
+}
+
+#olivia {
+    color: #6941C6;
+    margin-bottom: 8px;
+}
+
+#h1 {
+    margin-bottom: 8px;
+}
+
+#create {
+    color: #535862;
+    margin-bottom: 24px;
+}
+
+#design {
+    padding: 8px 12px;
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background-color: white;
+    border-radius: 24px;
+    margin-right: 8px;
+}
+
+#research {
+    padding: 8px 12px;
+    border-radius: 24px;
+    border: 1px solid #C7D7FE;
+    color: #3538CD;
+    background-color: #EEF4FF;
+    margin-right: 8px;
+}
+
+#presentation {
+    padding: 8px 12px;
+    border: 1px solid #FCCEEE;
+    border-radius: 24px;
+    color: #C11574;
+    background-color: #FDF2FA;
+}
+
+#miniPics {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 192px;
+}
+
+#miniOne, #miniTwo, #miniThree, #miniFour, #miniFive, #miniSix {
+    display: inline-block;
+    max-width: 384px;
+    width: 100%;
+    margin-bottom: 48px;
+}
+
+#miniTwo, #miniThree, #miniFive, #miniSix {
+    margin-left: 58px;
+}
+
+#kneeCar, #glass, #ghosts, #girl, #tabs, #couple {
+    margin-bottom: 20px;
+}
+
+#phoenix, #lana, #alec, #demi, #candice, #natali {
+    color: #6941C6;
+}
+
+#headerOne, #headerTwo, #headerThree, #headerFour, #headerFive, #headerSix {
+    display: inline-block;
+    margin-bottom: 8px;
+    max-width: 344px;
+    width: 100%;
+}
+
+#arrow, #arrowOne, #arrowTwo, #arrowThree, #arrowFour, #arrowFive {
+    display: inline-block;
+}
+
+#linear, #rise, #like, #mental, #wires {
+    color: #535862;
+    margin-bottom: 24px;
+}
+
+button {
+    font-weight: 600;
+}
+
+#product, #software, #productTwo {
+    padding: 8px 12px;
+    color: #026AA2;
+    border: 1px solid #B9E6FE;
+    background-color: #F0F9FF;
+    border-radius: 16px;
+    margin-right: 8px;
+}
+
+#tools, #saas, #toolsOne {
+    color: #C11574;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    padding: 8px 12px;
+    margin-right: 8px;
+    border-radius: 18px;
+}
+
+#leadership {
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    padding: 8px 12px;
+    border-radius: 24px;
+}
+
+#management {
+    color: #363F72;
+    padding: 8px 12px;
+    border: 1px solid #D5D9EB;
+    background-color: #F8F9FC;
+    border-radius: 24px;
+}
+
+#research {
+    color: #3538CD;
+    border: 1px solid #C7D7FE;
+    background-color: #EEF4FF;
+    padding: 8px 12px;
+    border-radius: 24px;
+}
+
+#frameworks {
+    color: #B93815;
+    border: 1px solid #F9DBAF;
+    background-color: #FEF6EE;
+    padding: 8px 12px;
+    margin-right: 8px;
+    border-radius: 18px;
+}
+
+#design, #designTwo {
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    padding: 8px 12px;
+    border-radius: 24px;
+}
